@@ -17,3 +17,9 @@ Note:
 2. This code is specific to only Human drug database.
 
 3. Data will be downloaded in a new folder named  `files` .
+
+
+
+## TO DOL
+1. Upload get-data.py
+2. Upload Node.js Application for the same.
