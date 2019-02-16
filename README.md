@@ -20,6 +20,10 @@ Note:
 
 
 
-## TO DOL
-1. Upload get-data.py
-2. Upload Node.js Application for the same.
+## TO DO
+
+1. Getting data upto azure data lake.
+
+2. Creating Copy Activites for the same.
+
+3. Reading JSON from the zipped files of all drugs.
